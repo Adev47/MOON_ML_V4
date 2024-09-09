@@ -1,1 +1,2 @@
 Bubble ESP,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Bubble.exe
+Proton Chair,online,1.00.01,https://raw.githubusercontent.com/Adev47/SHOTO_ML_V4/main/uploads/Proton.exe
