@@ -1,4 +1,4 @@
-Bubble ESP,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Bubble.exe
+Bubble ESP,online,1.00.02,https://raw.githubusercontent.com/Adev47/SHOTO_ML_V4/main/uploads/Proton_1.4.exe
 Proton Chair,online,1.00.01,https://raw.githubusercontent.com/Adev47/SHOTO_ML_V4/main/uploads/Proton.exe
 Unlock All,online,1.00.01,https://raw.githubusercontent.com/Adev47/SHOTO_ML_V4/main/uploads/nRi28Wtqb1.exe
 Loud Chair,online,1.00.01,https://raw.githubusercontent.com/Adev47/SHOTO_ML_V4/main/uploads/ldr_TQ5D5KtR_1.exe
