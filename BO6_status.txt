@@ -1,1 +1,0 @@
-Bubble ESP,online,1.00.01,https://raw.githubusercontent.com/Adev47/SHOTO_ML_V4/main/uploads/T10_Bubble_UB.exe
