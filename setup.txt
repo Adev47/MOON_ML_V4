@@ -1,0 +1,12 @@
+[design]
+highlight_color = #f15bd5
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/t6F96tSMsC
+guide_link = https://shoto-shop.gitbook.io/shoto-shop-guide/
+
+[rounded_corners]
+main_widgets = 12
